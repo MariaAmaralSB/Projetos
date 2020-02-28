@@ -1,0 +1,11 @@
+C:\Users\eduardaamaral\Desktop\projetos\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\eduardaamaral\Desktop\projetos\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\eduardaamaral\Desktop\projetos\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\eduardaamaral\Desktop\projetos\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\eduardaamaral\Desktop\projetos\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\eduardaamaral\Desktop\projetos\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\eduardaamaral\Desktop\projetos\Course\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\Users\eduardaamaral\Desktop\projetos\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\eduardaamaral\Desktop\projetos\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\eduardaamaral\Desktop\projetos\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\eduardaamaral\Desktop\projetos\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
