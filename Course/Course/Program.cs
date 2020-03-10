@@ -1,28 +1,32 @@
 ﻿using System;
-
+using System.Globalization;
 namespace Course
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Qual a hora atual?");
-            int hora = int.Parse(Console.ReadLine());
+            double xA, xB, xC, yA, yB, yC;
 
-            if (hora < 12)
-            {
-                Console.WriteLine("Bom dia!");
-            }
+            Console.WriteLine("Entre com as medidas do triangulo X: ");
+            xA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            xB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            xC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            else if (hora < 18)
-            {
-                Console.WriteLine("Boa Tarde");
-            }
+            Console.WriteLine("Entre com as medidas do triangulo Y: ");
+            yA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            yB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            yC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            else
-            {
-                Console.WriteLine("Boa Noite");
-            }
+            double p = (xA + xB + xC) / 2.0;
+            double areaX = Math.Sqrt(p * (p - xA) * (p - xB) * (p - xC));
+
+            p = (yA + yB + yC) / 2.0;
+            double areaY = Math.Sqrt(p * (p - yA) * (p - yB) * (p - yC));
+
+            Console.WriteLine("Área de x = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
+            Console.WriteLine("Área de y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));
+
         }
     }
 }
