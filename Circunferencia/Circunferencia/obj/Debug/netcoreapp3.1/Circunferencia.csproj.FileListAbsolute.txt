@@ -1,0 +1,11 @@
+C:\Users\eduardaamaral\Desktop\projetos\Circunferencia\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.exe
+C:\Users\eduardaamaral\Desktop\projetos\Circunferencia\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.deps.json
+C:\Users\eduardaamaral\Desktop\projetos\Circunferencia\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.runtimeconfig.json
+C:\Users\eduardaamaral\Desktop\projetos\Circunferencia\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.runtimeconfig.dev.json
+C:\Users\eduardaamaral\Desktop\projetos\Circunferencia\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.dll
+C:\Users\eduardaamaral\Desktop\projetos\Circunferencia\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.pdb
+C:\Users\eduardaamaral\Desktop\projetos\Circunferencia\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.csprojAssemblyReference.cache
+C:\Users\eduardaamaral\Desktop\projetos\Circunferencia\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.AssemblyInfoInputs.cache
+C:\Users\eduardaamaral\Desktop\projetos\Circunferencia\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.AssemblyInfo.cs
+C:\Users\eduardaamaral\Desktop\projetos\Circunferencia\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.dll
+C:\Users\eduardaamaral\Desktop\projetos\Circunferencia\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.pdb
