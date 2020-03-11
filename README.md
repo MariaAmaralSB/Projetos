@@ -1,3 +1,3 @@
-# projetos
+# Projetos
 
-#Exercicios Curso C#
+# Exercicios Curso C#
